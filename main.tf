@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "first" {
+resource "azurerm_resource_group" "second" {
   name     = "first_1"
   location = "East US"
 }
